@@ -1,3 +1,5 @@
+// https://medium.com/@zimrick/how-to-create-pure-react-svg-maps-with-topojson-and-d3-geo-e4a6b6848a98
+// contrast with the way I used
 import React, { Component } from 'react';
 import * as d3 from 'd3';
 

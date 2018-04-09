@@ -1,4 +1,4 @@
-import React, { Component } from "react";
+import React, { Component } from 'react';
 import * as d3 from 'd3';
 import Layer from './components/Map';
 import Shuttle from './components/Shuttle';
